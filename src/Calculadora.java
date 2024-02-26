@@ -50,4 +50,5 @@ public class Calculadora {
             default -> Double.NaN;
         };
     }
+
 }
